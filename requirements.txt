@@ -1,0 +1,14 @@
+FastAPI 
+WebSocket
+HTTPException
+Query
+uvicorn
+tensorflow
+cv2
+mediapipe
+numpy
+json
+base64
+gTTS
+os
+CORSMiddleware
